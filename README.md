@@ -1,5 +1,11 @@
 # GoWithFlow — Typing Speed Test
 
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
+
+</div>
+
 A sleek, minimal typing speed test single page application built with Next.js, TypeScript, and Tailwind CSS. Measure your WPM, accuracy, and streak across timed modes, word counts, and quotes — with multiple fonts, themes, and difficulty levels.
 
 ## Features
@@ -21,6 +27,16 @@ A sleek, minimal typing speed test single page application built with Next.js, T
 | Styling | Tailwind CSS + styled-jsx |
 | Fonts | next/font/google |
 | Effects | canvas-confetti |
+
+## 📸 Screenshots
+
+### Test Arena
+
+![Test Arena](screenshots/home.png)
+
+### Live Typing — WPM & Accuracy HUD
+
+![Live Typing — WPM & Accuracy HUD](screenshots/typing.png)
 
 ## Getting Started
 
